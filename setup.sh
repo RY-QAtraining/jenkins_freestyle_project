@@ -1,6 +1,7 @@
 #!/bin/bash
 
 ls
-touch example.txt
-echo "Hello" > example.txt
-cat example.txt
+mkdir newfolder
+cd newfolder
+touch newfile.txt
+pwd
