@@ -2,4 +2,5 @@
 
 ls
 touch example.txt
-ls
+echo "Hello" > example.txt
+cat example.txt
